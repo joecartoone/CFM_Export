@@ -1,7 +1,7 @@
-madden-20-spread-stats-firebase-adminsdk-7la4b-d07a932c67.json{
+{
   "type": "service_account",
   "project_id": "",
-  "private_key_id": "",
+  "private_key_id": "madden-20-spread-stats-firebase-adminsdk-7la4b-d07a932c67.json",
   "private_key": "",
   "client_email": "",
   "client_id": "",
